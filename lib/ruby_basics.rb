@@ -14,7 +14,7 @@ def greeting(greeting, name)
  puts "#{greeting} #{name}"
 end
 
-def return_a_value(phrase)
+def return_a_value("Nice"
   phrase
 end
 
